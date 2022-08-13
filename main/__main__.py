@@ -11,12 +11,12 @@ loop = asyncio.get_event_loop()
 
 @app.on_message(filters.command(["start","help","ping"]))
 async def start(bot, message: Message):
-  return await message.reply_text("⭐️ **Bot Is Online...**\n\n**Updates :** @TechZBots **| Support :** @TechZBots_Support")
+  return await message.reply_text("⭐️ **Bot Is Online...**\n\n**Updates :** @AutoAnimeOngoing **| Support :** @AutoAnimeIndex")
 
 async def start_bot():
   print("==================================")
   print("[INFO]: AutoAnimeBot Started Bot Successfully")
-  print("==========JOIN @TECHZBOTS=========")
+  print("==========JOIN @AutoAnimeOngoing=========")
 
   print("[INFO]: Adding Parsing Task")
   asyncio.create_task(auto_parser())
