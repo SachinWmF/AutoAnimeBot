@@ -43,25 +43,5 @@
 
 <hr>
 
-### 🚀 Bot Demo :
-
-* Index Channel : [@Anime_Dex](https://t.me/Anime_Dex)
-* Uploads Channel : [@AutoAiringAnimes](https://t.me/AutoAiringAnimes)
-* Discussion Group : [Join Now](https://t.me/+Q0xUxmKd1bQyMWI9)
-
-<hr>
-
 ### 📤 Deploy
-<p><a href="https://heroku.com/deploy?template=https://github.com/TechShreyash/AutoAnimeBot/tree/heroku"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
-
-<hr>
-
-### 👤 Contact Me
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots) [![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots_Support)
-
-<hr>
-
-### ⭐ Credits
-* [TechZBots](https://t.me/TechZBots)
-* [TechShreyash](https://github.com/TechShreyash)
-* [Anshul Garg](https://github.com/AuraMoon55)
+<p><a href="https://heroku.com/deploy?template=https://github.com/SachinWmF/AutoAnimeBot/tree/heroku"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
